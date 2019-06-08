@@ -126,12 +126,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : "00faea5b776938ee627c"
-    clientSecret: "803b110471481a6076fddd6a71a281574a4cbad2"
-    repository  : "https://juncw.github.io/"
-    owner       : "juncw"
-    admin: - "juncw"
-      # - your GitHub Id
+    clientID    : "ceda3cedb39c31fb5dd3" # GitHub Application Client ID
+    clientSecret: "34cf7fa27937cc2c74d19bcecaebe36d7a71ab5a" # GitHub Application Client Secret
+    repository  : "iseesaw.github.io" # GitHub repo
+    owner       : "iseesaw" # GitHub repo owner
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+      - "iseesaw" # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
