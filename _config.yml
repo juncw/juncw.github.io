@@ -127,10 +127,10 @@ comments:
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
     clientID    : "00faea5b776938ee627c"
-    clientSecret: "803b110471481a6076fddd6a71a281574a4cbad2
-    repository  : "https://juncw.github.io/
-    owner       : "juncw
-    admin: "juncw
+    clientSecret: "803b110471481a6076fddd6a71a281574a4cbad2"
+    repository  : "https://juncw.github.io/"
+    owner       : "juncw"
+    admin: "juncw"
       # - your GitHub Id
 
   ## Valine
