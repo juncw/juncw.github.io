@@ -12,7 +12,7 @@ header:
       zh-SG   : *ZH_HANS
     url: /home.html
   - titles:
-      en      : &EN       Archive
+      en      : &EN       Archive		
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
