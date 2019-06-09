@@ -130,8 +130,8 @@ comments:
     clientSecret: "803b110471481a6076fddd6a71a281574a4cbad2"
     repository  : "juncw.github.io"
     owner       : "juncw"
-    admin: - "juncw"
-      # - your GitHub Id
+    admin: 
+       - "juncw"
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
