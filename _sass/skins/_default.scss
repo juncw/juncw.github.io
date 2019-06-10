@@ -14,11 +14,14 @@ $text-color-2:     #fff;
 $main-color-3:     #f2f2f2;
 $text-color-3:     #333;
 
+$main-color-4:     #d7d7d7;
+$text-color-4:     #333;
+
 $main-color-theme-light: rgba(#000, .9);
 $main-color-theme-dark:  rgba(#fff, .9);
 
 // page background
-$background-color: #fff;
+$background-color: #f2f2f2;
 
 // text colors
 $text-color-theme-light-d: #000;
@@ -34,10 +37,9 @@ $text-color:       $text-color-theme-light;
 $text-color-l:     $text-color-theme-light-l;
 
 $text-background-color: rgba(#000, .05);
-
 // header and footer colors
 $header-text-color: $text-color-3;
-$header-background: $main-color-3;
+$header-background: $main-color-4;
 
 $footer-text-color: $text-color-3;
 $footer-background: $main-color-3;

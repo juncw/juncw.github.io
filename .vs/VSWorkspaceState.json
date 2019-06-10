@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data",
-    "\\_layouts",
-    "\\_posts"
+    "\\docs",
+    "\\docs\\assets\\images",
+    "\\images",
+    "\\_posts",
+    "\\_sass\\layout",
+    "\\_sass\\skins"
   ],
-  "SelectedNode": "\\_posts\\2018-07-01-welcome.md",
+  "SelectedNode": "\\Gemfile",
   "PreviewInSolutionExplorer": false
 }

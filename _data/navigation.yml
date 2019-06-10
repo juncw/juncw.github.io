@@ -11,6 +11,18 @@ header:
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
     url: /home.html
+
+  - titles:
+      en      : &EN       Contents
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  发布新闻
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+    url: /contents.html
   - titles:
       en      : &EN       Archive		
       en-GB   : *EN
