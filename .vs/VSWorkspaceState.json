@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs",
+    "\\assets\\images",
     "\\docs\\assets\\images",
     "\\images",
+    "\\_data",
+    "\\_includes",
+    "\\_includes\\scripts",
+    "\\_layouts",
     "\\_posts",
-    "\\_sass\\layout",
-    "\\_sass\\skins"
+    "\\_sass"
   ],
-  "SelectedNode": "\\Gemfile",
+  "SelectedNode": "\\Dockerfile.dev",
   "PreviewInSolutionExplorer": false
 }

@@ -41,7 +41,7 @@ header:
     url: /archive.html
 
   - titles:
-      en      : &EN       Daily Record
+      en      : &EN       Notes
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
